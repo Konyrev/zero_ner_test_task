@@ -1,0 +1,6 @@
+accelerate==0.13.2
+datasets==2.6.1
+evaluate==0.3.0
+seqeval==1.2.2
+torch==1.12.1
+transformers==4.23.1
